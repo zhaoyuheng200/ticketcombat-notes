@@ -1,0 +1,11 @@
+title: TicketCombat.com — field notes
+description: >-
+  An unofficial guide to TicketCombat.com (2008–2025), a free Ontario
+  traffic-ticket self-defence site that went offline in late 2025 —
+  what it taught, how it was organized, and where to read the archived pages.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
