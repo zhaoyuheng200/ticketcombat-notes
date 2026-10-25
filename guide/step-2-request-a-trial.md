@@ -38,14 +38,13 @@ The in-person procedures here are the most dated part of the whole site. See
 
 `/step2/step2.php` · [archived copy](https://web.archive.org/web/20251019130408/https://www.ticketcombat.com/step2/step2.php) · first seen 2008-12, last captured 2025-10
 
-The site warned that the instructions on the back of tickets were often wrong
-(Toronto's printed office hours and a prosecutor-appointment phone line, as of
-~2009), then explained when you could mail in a trial request and when you had
-to attend in person. Parking tickets went to the municipal parking office
-within 15 days, and if that deadline passed the plate owner got a Notice of
-Impending Conviction and another 15 days. Traffic tickets went to the office
-named on the ticket, since the site said the option of filing at any office in
-the province ended in 2010.
+The site warned that instructions printed on tickets were often wrong
+(Toronto's office hours and prosecutor phone line, ~2009). Mail-in requests
+worked only where the ticket offered them (photocopy it first); most urban
+centres required a visit. Parking tickets went to the municipal parking office
+within 15 days, with another 15 after a Notice of Impending Conviction. Traffic
+tickets went to the office named on the ticket, since filing anywhere in
+Ontario ended in 2010.
 
 > ⚠️ **Dated:** Ontario now has an online portal for requesting an early resolution meeting or a trial, where the court offers it (the 15-day deadline still applies). Toronto parking tickets have gone through the city's Administrative Penalty System, not court, since Aug 28, 2017, and other municipalities have followed, so check your ticket. See [What's changed](../whats-changed.md).
 
@@ -55,10 +54,10 @@ the province ended in 2010.
 
 A reference list linked from the Step 2 introduction. It names 68
 municipalities (Toronto, Ottawa, Mississauga, Hamilton and London among them)
-where a parking-ticket trial had to be requested in person under Regulation
-949, s.16, and 16 cities, counties and regions (including Toronto, Ottawa,
-Peel, York, Durham, Halton and Waterloo) with the same rule for traffic tickets
-under Regulation 950, s.4.5 (lists as of ~2009). (Not in the site map.)
+where parking-ticket trials had to be requested in person under Regulation
+949, s.16, and 16 cities, counties and regions (Peel, York, Durham and Halton,
+for example) with the same rule for traffic tickets under Regulation 950,
+s.4.5 (lists as of ~2009). (Not in the site map.)
 
 > ⚠️ **Dated:** Ontario now has an online portal for requesting an early resolution meeting or a trial, where the court offers it, and Toronto parking tickets have gone through the city's Administrative Penalty System, not court, since Aug 28, 2017 (other municipalities have adopted it too). See [What's changed](../whats-changed.md).
 
@@ -66,12 +65,10 @@ under Regulation 950, s.4.5 (lists as of ~2009). (Not in the site map.)
 
 `/step2/formcomplete.php` · [archived copy](https://web.archive.org/web/20230314060354/https://ticketcombat.com/step2/formcomplete.php) · first seen 2008-12, last captured 2023-03
 
-This page walked through the Notice of Intention to Appear. Its main advice
-was to tick the box saying you intend to challenge the officer's evidence: the
-officer then has to attend, and if they don't, that is the prosecution's
-problem. It also covered choosing the trial language and asking for an
-interpreter under Charter s.14, noting that smaller courts sometimes had
-trouble providing one.
+A guide to the Notice of Intention to Appear. Its key tip: tick yes to
+challenging the officer's evidence, so an absent officer is the prosecution's
+problem. It also covered trial language and the Charter s.14 interpreter
+right, which smaller courts struggled to meet.
 
 > ⚠️ **Dated:** The site assumes you fill in this form at the court counter. Ontario now has an online portal for requesting a trial or early resolution meeting, where the court offers it (the 15-day deadline still applies). See [What's changed](../whats-changed.md).
 
@@ -89,15 +86,13 @@ times were the lunch hours and the day after a long weekend.
 
 `/step2/followup.php` · [archived copy](https://web.archive.org/web/20200803005301/http://www.ticketcombat.com/step2/followup.php) · first seen 2009-06, last captured 2020-08
 
-Despite its site-map title, this page told readers *not* to call the court
-about their case. Dropped charges aren't announced, the court must mail a
-Notice of Trial, and a conviction you were never told about can be reopened.
-Instead it recommended building a paper trail early: a disclosure request and
-a letter asking for the earliest trial date, both Step 4 templates (the
-[sample disclosure request](https://web.archive.org/web/20250820191841/http://ticketcombat.com/step4/sampledisclosure.doc)
-and the [earliest-trial-date letter](https://web.archive.org/web/20250823173813/http://ticketcombat.com/step4/waiver.doc);
-see [Step 4](../guide/step-4-pre-trial.md)), to show diligence and that you
-never waived a speedy trial.
+Despite its site-map title, it said *not* to call the court: dropped charges
+go unannounced, a Notice of Trial must be mailed, and an unnoticed conviction
+can be reopened. Instead, send early a
+[disclosure request](https://web.archive.org/web/20250820191841/http://ticketcombat.com/step4/sampledisclosure.doc)
+and an [earliest-trial-date letter](https://web.archive.org/web/20250823173813/http://ticketcombat.com/step4/waiver.doc)
+([Step 4](../guide/step-4-pre-trial.md) templates) to show diligence and no
+speedy-trial waiver.
 
 > ⚠️ **Dated:** The speedy-trial (Charter s.11(b)) reasoning comes from the Askov/Morin era, which R v Jordan, 2016 SCC 27 replaced with presumptive ceilings (18 months for cases tried in provincial court). See [What's changed](../whats-changed.md).
 
@@ -105,12 +100,9 @@ never waived a speedy trial.
 
 `/step2/move.php` · [archived copy](https://web.archive.org/web/20200803005312/http://www.ticketcombat.com/step2/move.php) · first seen 2008-12, last captured 2020-08
 
-The site advised reporting a new address to the court office in person and
-keeping a receipt, so that a later conviction without notice could be
-reopened. It also estimated the timeline: up to 10 months to receive a notice
-of trial, and up to eight months more to the trial itself. It said courts
-expected trials within 18 months of the offence and that longer delays gave a
-strong chance of stopping the case (estimates from ~2008).
+Report a new address in person and keep the receipt for any later reopening,
+the site said. Its timeline: up to 10 months for a trial notice, eight more to
+trial, with 18 months seen as the limit (~2008).
 
 > ⚠️ **Dated:** The site's delay expectations come from the Askov/Morin era. R v Jordan, 2016 SCC 27 replaced that framework with presumptive ceilings (18 months for cases tried in provincial court). See [What's changed](../whats-changed.md).
 
@@ -118,14 +110,16 @@ strong chance of stopping the case (estimates from ~2008).
 
 `/step2/attendance.php` · [archived copy](https://web.archive.org/web/20200806154608/http://ticketcombat.com/step2/attendance.php) · first seen 2009-06, last captured 2020-08
 
-This page described the pre-trial meeting with a prosecutor that some courts
-required, which the site saw as a backlog-clearing exercise meant to extract
-guilty pleas. It warned about pressure tactics and the years of higher
-insurance a reduced charge can bring, compared plea deals to what paid ticket
-services offered (noting that paralegal licensing in 2008 ended their
-money-back guarantees), and advised settling, if at all, only after
-disclosure. Settlers were told to aim for a non-moving offence that stays off
-the driving record, and reminded that a justice still has to take the plea.
+The site saw the pre-trial prosecutor meeting some courts required as a
+backlog-clearing exercise meant to extract guilty pleas, and warned of
+intimidation and the pull of a quick reduced charge. Insurers, it said, weigh
+any conviction for five to ten years; its example was a $60 ticket adding
+$100–$500 a year in premiums (~2009). It likened plea deals to what paid
+ticket services sold as a win, noting that paralegal licensing in 2008 ended
+their money-back guarantees. Its advice: settle, if at all, only after
+disclosure, ideally to a non-moving offence that stays off the driving record,
+such as a passenger seat-belt or red-light camera charge. A justice must still
+accept the plea, and if talks fail you can try another prosecutor before trial.
 (Not in the site map. Linked from the Step 1 introduction, and a revised
 version of an earlier [Step 3 page](../guide/step-3-preparation.md#first-attendance-explained).)
 
@@ -135,14 +129,30 @@ version of an earlier [Step 3 page](../guide/step-3-preparation.md#first-attenda
 
 `/step2/change.php` · [archived copy](https://web.archive.org/web/20200803005256/http://www.ticketcombat.com/step2/change.php) · first seen 2009-06, last captured 2020-08
 
-The site described three unappealing ways to get an adjournment: send a
-representative on the trial day (with a sample exchange showing a justice
-testing a vague excuse, and advice on what the representative should and
-shouldn't reveal to the prosecutor), bring a formal motion to adjourn before
-the trial (a multi-step courthouse process it said was more forgiving of
-ordinary reasons), or miss the trial and then seek a reopening. It warned that an adjournment you request
-counts against you in an 11(b) delay argument, and suggested asking on the
-record for an earlier date to lessen that.
+When a notice of trial lands on a holiday or surgery date you need an
+adjournment, and the site called all three routes unappealing. A
+representative on the trial day needs a real, provable reason: the page's
+sample exchange shows a justice pinning down a vague excuse and ordering
+proof. It coached the rep to tell the prosecutor as little as possible, so an
+absent officer still ends the case, a tactic the site called "playing chicken
+with the prosecutor." A motion filed in advance means a long courthouse
+routine but accepts ordinary reasons such as a vacation. Skipping the trial
+leaves only a reopening.
+
+Key points:
+
+- On the trial day, adjournments tend to succeed mainly for preparation needs
+  (pending disclosure, a Charter application) or documented emergencies. The
+  page lists about five such reasons.
+- The advance motion runs through the clerk, a commissioner's oath, service on
+  the prosecutor and a separate hearing. Of that hearing the site wrote, "Yes
+  you are going to court to explain why you can't go to court!"
+- Skipping the trial brings a conviction in absence plus about $10 in costs.
+  Undoing it takes a [reopening](#reopenings), and the site warned never to lie
+  to a justice.
+- The site said any adjournment you request is delay charged to you under
+  Charter s.11(b), and that asking on the record for an earlier date can
+  soften that.
 
 > ⚠️ **Dated:** The site's 11(b) delay arguments come from the Askov/Morin era. R v Jordan, 2016 SCC 27 replaced that framework with presumptive ceilings (18 months for cases tried in provincial court). See [What's changed](../whats-changed.md).
 
@@ -151,13 +161,27 @@ record for an earlier date to lessen that.
 `/step2/reopenings.php` · [archived copy](https://web.archive.org/web/20200731154150/http://www.ticketcombat.com/step2/reopenings.php) · first seen 2011-05, last captured 2020-07
 
 This page explained how to have a default conviction struck out under POA
-s.11(1). It stressed that the 15 days run from when you *learn* of the
-conviction, not from the conviction date, and showed how to count them under
-the court rules (Reg. 200, s.4). It also covered the difference between a
-reopening and an appeal, the affidavit, oath and hearing before a justice,
-examples of reasons courts accept and reject, and Toronto's paper-only review
-and its frustrating phone line (as of ~2011). (Not in the site map; linked
-from the follow-up and trial-date pages.)
+s.11(1) when you were convicted without a hearing, for instance because a
+notice of trial never arrived. It set reopenings apart from appeals, which go
+to a higher court to argue the conviction was wrong. Its main point was
+timing: the 15 days run from when you *learn* of the conviction (from a court
+notice or a collection agency, say), not from the conviction date. It showed
+how to count them under the court rules (Reg. 200, s.4), which skip the first
+day and roll past a Saturday or holiday, and warned that clerks often get this
+wrong. (Not in the site map; linked from the follow-up and trial-date pages.)
+
+Key points:
+
+- At the court office you fill in forms and an affidavit giving your reasons,
+  then swear it before the clerk with photo ID.
+- The page contrasts reasons courts accept, mainly undelivered notices and
+  genuine emergencies, with everyday excuses they reject.
+- Outside Toronto you usually explain yourself to a justice in chambers, who
+  is the court and deserves great courtesy. If granted, the conviction is
+  struck and a new trial date set.
+- Toronto (as of ~2011) decided on the paperwork alone, so the affidavit
+  carried everything. Results took at least two weeks, and the site explained how
+  to read its phone system's status messages.
 
 > ⚠️ **Dated:** The parking-ticket parts (Notice of Impending Conviction) are dated for Toronto, where parking tickets have gone through the city's Administrative Penalty System, not court, since Aug 28, 2017. Other municipalities have adopted it too. See [What's changed](../whats-changed.md).
 

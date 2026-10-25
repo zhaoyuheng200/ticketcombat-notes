@@ -9,7 +9,7 @@ Step 1 was the site's sales pitch. It explained no procedure; its goal was to
 talk readers out of paying. It started with the choices printed on the back of
 an Ontario offence notice, added three unofficial ones, and argued that each
 of them beat a guilty plea. The rest of the section is a chain of short
-"myth-busting" pages. Each ends with a teaser that leads to the next, and
+myth-busting pages. Each ends with a teaser that leads to the next, and
 together they argue that a trial request costs almost nothing and can only help.
 
 The arguments were partly about money (no discount for paying early, the
@@ -37,15 +37,18 @@ trial. They go to the city's Administrative Penalty System instead. See
 
 `/step1/step1.php` · [archived copy](https://web.archive.org/web/20250817124439/http://www.ticketcombat.com/step1/step1.php) · first seen 2008-12, last captured 2025-08
 
-This page walked through the three options on the back of a ticket: pay;
-Option 2, a prosecutor meeting ("early resolution") in larger municipalities
-or a guilty plea with submissions on penalty in smaller ones; or a trial. The
-site called Option 2 false hope, since it still ends in a conviction, and
-pointed out that the trial option takes the same trip to the court office. It
-then added three choices the ticket doesn't mention, all aimed at buying time
-beyond the 15-day window or at keeping minor ticket errors from being
-corrected: ignore the ticket, request a trial and then skip it, or request a
-trial and pay before the date. (Details are in [Your ticket](../topics/your-ticket.md).)
+The page went through the three choices on the back of an offence notice. It
+dismissed Option 2 (early resolution with a prosecutor in bigger
+municipalities, a guilty plea with submissions on penalty in smaller ones) as
+false hope: most set fines are fixed by statute, so a justice can't lower
+them, and a reduced charge is still a conviction that reaches your record and
+insurance. It and a trial request take the same trip to the court office. The
+site then added three choices the ticket leaves out, aimed at buying time past
+the 15-day window or at stopping non-fatal errors, such as a misspelled name,
+from being corrected: ignore the ticket, request a trial and skip it, or
+request a trial and pay a week or two before the date so the payment is on
+file. A footnote said to choose the trial option whatever number a
+municipality gives it. (Details are in [Your ticket](../topics/your-ticket.md).)
 
 > ⚠️ **Dated:** The site describes going to the court office in person. Ontario now has an online portal for requesting an early resolution meeting or a trial, where the court offers it (the 15-day deadline still applies). See [What's changed](../whats-changed.md).
 
@@ -53,11 +56,10 @@ trial and pay before the date. (Details are in [Your ticket](../topics/your-tick
 
 `/step1/fight.php` · [archived copy](https://web.archive.org/web/20200806154558/http://ticketcombat.com/step1/fight.php) · first seen 2009-05, last captured 2020-08
 
-The site argued that most people pay because they think fighting is hard, when
-a trial request takes only contact details and, at a quiet hour, under 15
-minutes in line. It cited figures that only about 3% of ticketed drivers fight
-and that Toronto earned over $102 million a year from parking fines (figures
-from 2004–2007 sources). (Not in the site map, but second in the Step 1 sidebar.)
+Most people pay, the site said, because they think fighting is hard; a trial
+request takes contact details and, off-peak, under 15 minutes. It cited a 3%
+fight rate and $102 million a year in Toronto parking fines (2004–2007
+sources). (Not in the site map; second in the Step 1 sidebar.)
 
 > ⚠️ **Dated:** The advice about a short wait in line assumes an in-person visit. Ontario now has an online portal for requesting a trial or early resolution meeting, where the court offers it (the 15-day deadline still applies). See [What's changed](../whats-changed.md).
 
@@ -65,74 +67,73 @@ from 2004–2007 sources). (Not in the site map, but second in the Step 1 sideba
 
 `/step1/nocourt.php` · [archived copy](https://web.archive.org/web/20200803005220/http://www.ticketcombat.com/step1/nocourt.php) · first seen 2008-12, last captured 2020-08
 
-A short bridge page. It lists the usual reasons for not fighting (feeling
-guilty, missing work, finding court intimidating) and says the pages that
-follow will answer them one at a time. Readers who are already convinced are
-sent straight to Step 2.
+A bridge page. It names the usual reasons not to fight (feeling guilty, missing
+work, fear of court) and promises to rebut each; readers already convinced are
+sent to Step 2.
 
 ### Avoid the pressure
 
 `/step1/pressure.php` · [archived copy](https://web.archive.org/web/20200803005241/http://www.ticketcombat.com/step1/pressure.php) · first seen 2008-12, last captured 2020-08
 
-The site argued that the 15-day deadline pushes people into a rushed choice,
-and that a trial request moves the real decision months down the road. It
-estimated about four months to trial in Peel and more than 14 in Toronto
-(figures from ~2008).
+The site said a trial request defers the rushed 15-day choice by months (4 in
+Peel, 14+ in Toronto; ~2008).
 
 ### You have nothing to lose
 
 `/step1/nothing.php` · [archived copy](https://web.archive.org/web/20200803005230/http://www.ticketcombat.com/step1/nothing.php) · first seen 2008-12, last captured 2020-08
 
-The site argued that paying early no longer earns a discount (an old
-early-payment reduction for parking tickets was gone, ended in Toronto in
-2004), so losing at trial usually costs the same as the ticket. Paying right
-away might even mean paying a ticket that was quietly invalid, for example
-after a failed end-of-shift radar check, within the seven days an officer has
-to file it under POA s.4. Even readers who never meant to attend
-were told to request a trial, because it delays both payment and any insurance
-increase at the risk of a small added court cost (amounts from ~2009–2013).
+Paying early saves nothing, the site argued. The old 25–30% early-payment
+discount on parking tickets was gone (Toronto ended it in 2004), and the
+ticket's total already bundles the set fine, court costs and victim surcharge,
+so losing at trial usually costs the same. Offences without a set fine carry a
+range under POA s.59. Paying at once might even cover a ticket that was
+quietly void, say after a failed end-of-shift radar test, since an officer has
+seven days to file it (POA s.4; s.3(3) allows 30 days when filed first). Even
+would-be no-shows, it said, should request a trial: a conviction in absence adds about
+$10 but defers payment and any insurance hit by months, nearly two years in
+Toronto (amounts from ~2009–2013).
 
 ### Insurance implications
 
 `/step1/insurance.php` · [archived copy](https://web.archive.org/web/20200803005215/http://www.ticketcombat.com/step1/insurance.php) · first seen 2008-12, last captured 2020-08
 
-The site argued that insurers count convictions, not demerit points. So
+The site argued that insurers count convictions, not demerit points, so
 pleading down to a no-points speeding charge still raises premiums, and hiding
-it on a renewal questionnaire is fraud. It gave a careless-driving example in
-which annual premiums jump from about $2,000 to $5,000–$7,000, and listed the
-demerit-point levels that trigger warning letters, interviews and suspensions
-(figures from ~2008–2009).
+it on a renewal questionnaire is fraud that risks your coverage. Its
+careless-driving example had premiums rising from about $2,000 to
+$5,000–$7,000 a year. Footnotes gave demerit thresholds for warnings,
+interviews and suspension (figures from ~2008–2009).
 
 ### You are more likely to get another ticket
 
 `/step1/anotherticket.php` · [archived copy](https://web.archive.org/web/20240801231235/https://www.ticketcombat.com/step1/anotherticket.php) · first seen 2008-12, last captured 2024-08
 
-A short page. Officers can see a driver's full conviction history during a
-stop, and the site argued that drivers with prior convictions are less likely
-to get off with a warning.
+Officers see your whole conviction history at a stop, and the site said a
+record makes a warning less likely.
 
 ### The odds are in your favour
 
 `/step1/odds.php` · [archived copy](https://web.archive.org/web/20200803005235/http://www.ticketcombat.com/step1/odds.php) · first seen 2008-12, last captured 2020-08
 
-The page cited news reports of mass dismissals: roughly 24,000 charges dropped
-over trial delays in 2006 (10,000 by 2000), OPP tickets left unprocessed in
-Parry Sound, and trials thrown out when the new Family Day holiday fell on
-Feb 18, 2008 (over 1,100 in Toronto alone). With only about 3% of drivers
-contesting, the site said, courts were already swamped, and more people
-fighting would improve everyone's odds (figures from 2000–2008 news).
+The page cited news reports of mass dismissals: about 10,000 tickets dropped
+over delay by 2000 and over 24,000 in 2006, OPP tickets never entered in Parry
+Sound, and trials voided when Family Day fell on Feb 18, 2008 (over 1,100 in
+Toronto). With only ~3% fighting, it said, courts were already swamped, so
+more challenges would improve everyone's odds (2000–2008 news).
 
 ### Making roads safer
 
 `/step1/saferoads.php` · [archived copy](https://web.archive.org/web/20200803005246/http://www.ticketcombat.com/step1/saferoads.php) · first seen 2008-12, last captured 2020-08
 
-This page answered the objection that mass ticket-fighting would make roads
-more dangerous. The site argued that parking and camera tickets clog the same
-courts as serious charges, so backlogs push prosecutors to focus on dangerous
-driving. It attacked red-light cameras as revenue tools that ticket the owner
-rather than the driver, citing a 2001 U.S. House Majority Leader report on
-shortened yellow lights and an Ontario Human Rights Commission report on
-racial profiling.
+The page answered the worry that mass ticket-fighting would endanger roads.
+The site argued that parking and camera tickets raise revenue, not safety, yet clog the
+courts that hear serious charges, so backlogs had already pushed the Attorney
+General to drop minor matters and focus on drag racing and impaired driving.
+It called owner-liability red-light cameras a road tax, mailed a month later
+to someone who may not have been driving, and cited a 2001 U.S. House
+Majority Leader report that some cities shortened yellow lights. On unequal
+enforcement, it claimed affluent or attractive drivers get more warnings and
+cited an Ontario Human Rights Commission report on racial profiling.
 
 > ⚠️ **Dated:** The point that parking tickets share courts with speeding tickets no longer holds in Toronto. Parking tickets moved to the city's Administrative Penalty System on Aug 28, 2017, and Toronto red-light and speed-camera tickets for violations on or after Jan 20, 2025 go there too. See [What's changed](../whats-changed.md).
 
@@ -141,24 +142,21 @@ racial profiling.
 `/step1/notguilty.php` · [archived copy](https://web.archive.org/web/20200803005226/http://www.ticketcombat.com/step1/notguilty.php) · first seen 2008-12, last captured 2020-08
 
 The site argued that under Charter s.11(d) you are presumed innocent until a
-court finds otherwise, so feeling guilty is beside the point: the prosecution
-must prove the charge beyond a reasonable doubt. It added that delay gives time
-for helpful precedents, such as Waterloo v. Yan, which the site described as
-making red-light camera photos inadmissible, a benefit lost to anyone who had
-already paid. It also pointed to O.J. Simpson and David Milgaard
-as cases where verdicts didn't match actual guilt.
+court rules, so feeling guilty is irrelevant; the prosecution must prove guilt
+beyond a reasonable doubt. Delay also allows helpful precedents, like Waterloo
+v. Yan (linked as a 2004 Ontario Court of Appeal case), which it said made
+red-light camera photos inadmissible, a gain lost by those who paid. It cited
+O.J. Simpson and David Milgaard as verdicts at odds with guilt.
 
 ### The cop won't show up
 
 `/step1/nocop.php` · [archived copy](https://web.archive.org/web/20241110215350/https://ticketcombat.com/step1/nocop.php) · first seen 2008-12, last captured 2024-11
 
-The site said that without the officer there is no evidence, so the charge is
-withdrawn, and that attendance varies. By its estimates, parking officers
-attended about 90% of the time, private-property enforcement officers rarely,
-officers in Guelph almost always (about four months to trial), and officers in
-Toronto under half the time (about 14 months to trial), citing a 2005
-Toronto Star report quoting Police Chief Bill Blair. A footnote says the site's
-strategies assume the officer *will* show up (figures from ~2005–2009).
+The site said an absent officer means no evidence and a withdrawn charge.
+Estimated attendance: parking officers ~90%, private-property officers rarely,
+Guelph police nearly always (~4 months to trial), Toronto under half (~14
+months; 2005 Toronto Star). A footnote said its tactics assume the officer
+*will* come (~2005–2009).
 
 ## Key takeaways
 

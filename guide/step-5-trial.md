@@ -29,6 +29,13 @@ explained the three offence categories from R. v. Sault Ste. Marie (1978).
 Their main substantive tool was the due diligence defence to strict liability
 offences, with R. v. Kanda and R. v. Raham deciding where speeding fits.
 
+The closing pages planned for a loss. They covered what to say before
+sentence, the court's power under POA s.59(2) to go below a minimum fine in
+exceptional cases, and a 2008 ruling (R. v. O'Neill) on whether set fines
+survive a trial. Then came appeals, which the site favoured because a judge
+with legal training hears them, weighed against transcript costs and waits
+of up to two and a half years in Toronto (as of when written).
+
 The tone is confident coaching, sometimes scornful of the people who run the
 court. One page treats the deals offered before court as a bluffing game and
 ends: "Your invitation to play was issued on a yellow ticket." Most of the text
@@ -44,51 +51,59 @@ R v Jordan (2016).
 
 `/step5/step5.php` · [archived copy](https://web.archive.org/web/20251018010834/https://www.ticketcombat.com/step5/step5.php) · first seen 2008-12, last captured 2025-10
 
-The opening page outlined the section and tried to make readers feel equal to
-the officials in the room. It described the justice of the peace as a
-political appointee without legal training, and the prosecutor as a
-non-lawyer public employee (a city employee once court offices were handed to
-municipalities). Both, it said, get only a few weeks of training (the site's
-description, ~2010). It cited R. v. Rijal (2010) and, in a footnote, R. v.
-Tran, R. v. Zimmerman, R. v. Al-Emam and R. v. Moghaddam for the court's duty
-to give unrepresented defendants meaningful help.
+The opening page outlined the section, then mostly tried to make readers feel
+equal to the officials in the room. It described the justice of the peace as a
+political appointee without legal training (a footnote noted that the rare
+red-sashed justice is a lawyer), and the prosecutor as a non-lawyer public
+servant, a city employee since court offices passed to municipalities from the
+mid-1990s. Both get only a few weeks of training (the site's description,
+~2010). It cited R. v. Rijal (2010), and in a footnote R. v. Tran, Zimmerman,
+Al-Emam and Moghaddam, for the court's duty to explain the charge and
+procedure to unrepresented defendants and help them meaningfully.
 
 #### Trial etiquette
 
 `/step5/etiquette.php` · [archived copy](https://web.archive.org/web/20200707200203/http://ticketcombat.com/step5/etiquette.php) · first seen 2008-12, last captured 2020-07
 
-The page reduced courtroom manners to one rule, "DON'T PISS THE JUSTICE OFF",
-on the grounds that justices are ordinary people with limited patience. Its
-other advice was to stand and bow, call the justice *Your Worship*, never
-interrupt, and answer false testimony with evidence rather than accusations.
+The page boiled courtroom manners down to one rule, "DON'T PISS THE JUSTICE
+OFF", since justices are ordinary people with finite patience. Otherwise:
+stand and bow, say *Your Worship*, never interrupt, and meet false testimony
+with evidence, not accusations.
 
 #### What to expect when you go to court
 
 `/step5/procedure.php` · [archived copy](https://web.archive.org/web/20200708005451/http://ticketcombat.com/step5/procedure.php) · first seen 2008-12, last captured 2020-07
 
-This page covered the opening of a court session: arrive early, find your case
-on the docket posted outside the courtroom, and tell the prosecutor you are
-pleading not guilty. It warned that the prosecutor or officer will often offer
-a reduced charge beforehand. It compared this to bluffing at poker and said
-pressure tactics can hide a weak case, noting that people who refuse a deal
-sometimes see the charge withdrawn minutes later. Once court opens, cases
-where the officer didn't show up are withdrawn first, and guilty pleas are
-heard next.
+The page covered the start of a session: arrive 15 minutes early, find your
+name on the docket by the courtroom door, and tell the prosecutor you plead
+not guilty. Expect an offer of a lesser charge from the prosecutor or officer,
+it warned, with pressure it likened to a poker bluff, such as blaming you for
+late disclosure or probing your reasons to prepare a rebuttal. Refusers
+sometimes see the charge dropped minutes later. No-show officers' cases go
+first, then guilty pleas.
 
 #### Guilty pleas
 
 `/step5/guilty.php` · [archived copy](https://web.archive.org/web/20200806154629/http://ticketcombat.com/step5/guilty.php) · first seen 2008-12, last captured 2020-08
 
-The site said a guilty plea can make sense only for tickets whose sole
-consequence is a fine, such as parking, red-light-camera and
-passenger-seatbelt tickets. It explained joint submissions with the
-prosecutor and their main risk: where a fine has a range, the justice isn't
-bound by the deal. Its example was R. v. Fong (2004), where an agreed reduced
-fine for driving without insurance was raised to the statutory minimum
-(figures from 2004). It suggested that anyone changing their plea on the day
-first watch how the justice handles other guilty pleas. It then walked through
-the plea itself, from amending the charge and the arraignment to penalty
-submissions and asking for time to pay.
+The site said a guilty plea suits only tickets whose sole cost is the fine,
+such as parking, red-light-camera and passenger-seatbelt tickets. A plea can
+be arranged with the prosecutor before court, as a joint submission on a lower
+fine or lesser charge, or made at the last minute. The risk is that where a
+fine has a range, the justice can reject the deal. In R. v. Fong (2004) an
+agreed $2,000 fine for driving uninsured was raised to the $5,000 minimum
+(figures from 2004). A late plea gets no help from the prosecutor, so the site
+suggested first watching how the justice treats the other guilty pleas, and
+mentioning the cost of a day off work.
+
+**Key points** (the plea itself, as the site described it):
+
+- A parent or other agent may answer for the defendant if authorized.
+- An agreed lesser charge is substituted by amendment, with your consent.
+- After the charge is read, the justice checks that the plea is voluntary and
+  that you know you are giving up a trial.
+- Penalty submissions follow; you can pay on the spot or ask for up to six
+  months.
 
 > ⚠️ **Dated:** Two of the page's main examples no longer go to court in Toronto. Parking tickets moved to the city's Administrative Penalty System on Aug 28, 2017 (other municipalities have also adopted APS for parking), and red-light-camera tickets for violations on or after Jan 20, 2025 followed. Both go to a screening review and a hearing officer, not a Provincial Offences court. See [What's changed](../whats-changed.md).
 
@@ -98,10 +113,8 @@ submissions and asking for time to pay.
 
 `/step5/trial.php` · [archived copy](https://web.archive.org/web/20200708005456/http://ticketcombat.com/step5/trial.php) · first seen 2008-12, last captured 2020-07
 
-A one-screen outline of the trial: motions around the arraignment, the
-prosecution's case with your cross-examination, your defence, and then the
-verdict and any sentence. It works as the table of contents for the four
-parts below.
+An outline of the four stages (motions, the Crown's case, the defence,
+verdict) that the parts below follow.
 
 ### Part 1: Motions, arraignments and pleas
 
@@ -109,12 +122,11 @@ parts below.
 
 `/step5/part1.php` · [archived copy](https://web.archive.org/web/20200707200239/http://ticketcombat.com/step5/part1.php) · first seen 2008-12, last captured 2020-07
 
-The page identified three windows for motions: before the charge is read,
-after it is read, and after a plea. For the first window it covered asking for
-an adjournment, for example because a witness is ill or disclosure is
-incomplete. It stressed putting the blame for the adjournment on the
-prosecution so the added time would support a later delay-based stay. If the
-case was already very old, it suggested asking for a stay instead.
+The page named three windows for motions: before the charge is read, after,
+and after a plea. In the first, one can seek an adjournment, say for a sick
+witness or incomplete disclosure, while pinning the delay on the prosecution
+to strengthen a later stay bid. An already old case might justify a stay
+instead.
 
 > ⚠️ **Dated:** This delay-building strategy targets the Askov/Morin-era approach to Charter s.11(b), which R v Jordan, 2016 SCC 27 replaced with presumptive ceilings (18 months for cases tried in provincial court). See [What's changed](../whats-changed.md).
 
@@ -122,12 +134,9 @@ case was already very old, it suggested asking for a stay instead.
 
 `/step5/stay.php` · [archived copy](https://web.archive.org/web/20200707200317/http://ticketcombat.com/step5/stay.php) · first seen 2008-12, last captured 2020-07
 
-After the charge is read, the site said, a defendant can move for a stay or to
-quash instead of entering a plea. This page covered the stay. One ground is a
-breach of the Charter right to be tried within a reasonable time (s.11(b)).
-The other is that the prosecutor stonewalled disclosure so badly that stopping
-the case is the only remedy. It sent readers to the Step 4 stay pages for the
-details ([Step 4](step-4-pre-trial.md)).
+Once the charge is read, a defendant may seek a stay instead of pleading:
+either the s.11(b) reasonable-time right was breached, or disclosure was
+stonewalled past any other cure. Details are in [Step 4](step-4-pre-trial.md).
 
 > ⚠️ **Dated:** The reasonable-time ground relies on the Askov/Morin-era s.11(b) framework, which R v Jordan, 2016 SCC 27 replaced with presumptive ceilings (18 months for cases tried in provincial court). See [What's changed](../whats-changed.md).
 
@@ -135,26 +144,26 @@ details ([Step 4](step-4-pre-trial.md)).
 
 `/step5/quash.php` · [archived copy](https://web.archive.org/web/20251018122410/https://www.ticketcombat.com/step5/quash.php) · first seen 2008-12, last captured 2025-10
 
-The site gave two grounds for quashing: a charge too vague to defend against,
-and a defect on the face of the ticket. It cautioned that since R. v. Sault
-Ste. Marie (1978) courts have looked past technicalities, and that POA s.34
-lets the court amend a ticket. Only a short list of serious omissions, such as
-a missing date or officer's signature, was said to be fatal. For lesser
-errors, it suggested arguing that the error misled your preparation, asking
-for an adjournment if the ticket is amended (which it noted could feed a delay
-argument), or saving the error until trial. It pointed to the fines page for a
-way to make errors fatal, which had to be used before disputing the ticket
-(see [Your ticket](../topics/your-ticket.md)).
+The site gave two grounds for quashing. An insufficient charge doesn't make
+clear what you are accused of, though the justice may just amend it or order
+more detail. A fatal flaw on the ticket's face is harder: the page traced the
+idea to judges softening death-penalty law, and cautioned that since R. v.
+Sault Ste. Marie (1978) courts look past technicalities and POA s.34 lets them
+amend tickets. Only a few defects, such as a missing date or officer's
+signature, were said to be fatal. Otherwise it suggested arguing the error
+misled your preparation, seeking an adjournment if the ticket is amended
+(feeding a delay argument), or raising the error only at trial. The fines page
+described forcing errors to be fatal, which had to happen before disputing the
+ticket (see [Your ticket](../topics/your-ticket.md)).
 
 #### Exclude the witness(es)
 
 `/step5/afterplea.php` · [archived copy](https://web.archive.org/web/20200707200148/http://ticketcombat.com/step5/afterplea.php) · first seen 2008-12, last captured 2020-07
 
-A short page. It noted that motions can be made at any point if they aren't
-frivolous or vexatious, then covered the motion to keep witnesses out of the
-courtroom until they testify. The site recommended it when pre-trial
-arguments, such as an attack on the officer's memory, could tip the officer
-off. It warned that the order applies to the defendant's own witnesses too.
+Motions can come at any time if not frivolous, the page said, then covered
+excluding witnesses until they testify: useful when pre-trial arguments (about
+the officer's memory, say) could tip him off, though it binds your own
+witnesses too.
 
 ### Part 2: The prosecution's case
 
@@ -162,74 +171,72 @@ off. It warned that the order applies to the defendant's own witnesses too.
 
 `/step5/part2.php` · [archived copy](https://web.archive.org/web/20200707200244/http://ticketcombat.com/step5/part2.php) · first seen 2008-12, last captured 2020-07
 
-The site said prosecutors usually skip an opening statement and call the
-officer straight away. The officer's testimony begins with a request to
-consult his notes, which the site said to oppose if the notes were never
-disclosed. It also explained that the Crown's examination in chief can't use
-leading questions.
+Prosecutors usually skip an opening and call the officer, who asks to use his
+notes; the site said to object if they weren't disclosed. The Crown's
+examination in chief can't use leading questions.
 
 #### The police officer's notes
 
 `/step5/officernotes.php` · [archived copy](https://web.archive.org/web/20200707200234/http://ticketcombat.com/step5/officernotes.php) · first seen 2008-12, last captured 2020-07
 
-An officer may use notes only to refresh his memory, the page explained, and
-only once the Crown shows they were made at the time and never altered. He
-must also have an independent recollection. The page outlined the standard
-foundation questions the prosecutor asks, advised objecting if the notes
-weren't disclosed, and stressed that the notes alone aren't evidence. To test
-the officer's memory, it suggested asking about details notes wouldn't record,
-such as passengers or clothing.
+An officer may use notes only to refresh his memory, the page explained, once
+the Crown shows they were made at the time and never altered, and he still
+needs an independent recollection. It gave a sample run of about a dozen
+foundation questions prosecutors typically ask, after which the justice
+invites objections. The site advised objecting if the notes weren't disclosed,
+since they were owed even unasked, and stressed that notes alone can't
+convict. To test his memory, it suggested asking about things notes wouldn't
+record, like passengers or clothing.
 
 #### Voir Dire - what you said cannot be used against you
 
 `/step5/voirdire.php` · [archived copy](https://web.archive.org/web/20200707200335/http://ticketcombat.com/step5/voirdire.php) · first seen 2008-12, last captured 2020-07
 
-The site explained that an officer can't repeat a defendant's statements
-unless the Crown proves they were voluntary. It advised readers not to concede
-making them, which forces a *voir dire*, a hearing within the trial on whether
-evidence is admissible. There the defendant tries to show threats, promises or
-inducements. The page called this most important for mens rea charges, where
-statements can be used to prove intent.
+An officer can't repeat your statements unless the Crown proves them
+voluntary. The site said to deny them, forcing a *voir dire* to show threats
+or promises; this matters most for mens rea charges.
 
 #### Rules of evidence
 
 `/step5/evidence.php` · [archived copy](https://web.archive.org/web/20200707200208/http://ticketcombat.com/step5/evidence.php) · first seen 2008-12, last captured 2020-07
 
-A primer on evidence. It covered hearsay (an officer can't testify to a
-licence suspension he saw on a computer; the Crown needs a certified Ministry
-of Transportation record) and opinion evidence (a visual speed estimate needs
-a foundation). It also explained direct versus circumstantial evidence and how
-*material* differs from *relevant*. It named the basic objections and noted
-that a justice may admit doubtful evidence but give it less weight.
+A primer on hearsay (an officer can't vouch for a suspension he saw on a
+computer; a certified Ministry of Transportation record is needed), opinion (a
+visual speed estimate needs a foundation), direct versus circumstantial
+evidence, and *material* versus *relevant*, shown with a speedometer repair
+report. It named basic objections, noting doubtful evidence may be admitted
+with less weight.
 
 #### Cross-examination
 
 `/step5/crossexam.php` · [archived copy](https://web.archive.org/web/20200707200158/http://ticketcombat.com/step5/crossexam.php) · first seen 2008-12, last captured 2020-07
 
-The section's longest page on trial technique. It explained that
-cross-examination, unlike the Crown's questioning, allows leading questions,
-and that its purpose is to undermine the testimony, not to argue your case.
-It quoted Faryna v. Chorny ([1952] B.C.C.A.) on judging credibility by how
-well a story fits the surrounding probabilities. Its advice was to bring
-contradicting material learned through disclosure (weather reports,
-car-colour statistics), ask only questions you know the answers to, move on
-when a witness won't concede, and introduce exhibits properly. It also gave a
-sample line of questions meant to get an officer to admit that people he
-ticketed have been acquitted, explained re-examination, and linked three
-outside guides on cross-examination.
+The section's longest page on technique. Cross-examination, it explained,
+allows leading questions, suggested scenarios and requests to retell the
+story, and its aim is to cast doubt on the testimony, not to argue your own
+case. It quoted Faryna v. Chorny ([1952] B.C.C.A.) at length on judging
+credibility by how well a story fits the surrounding probabilities, reading it
+to mean an honest officer can still be wrong. Its advice was to come armed
+with contradicting material from disclosure (a weather report, or car-colour
+statistics suggesting he stopped the wrong silver car), ask only questions
+whose answers you know, vary your phrasing, and drop points the witness won't
+concede. A sample sequence of about seven questions leads an officer to admit
+that some people he ticketed were acquitted. It also covered introducing
+exhibits, the Crown's limited re-examination, and three outside guides.
 
 #### Motion of non-suit
 
 `/step5/nonsuit.php` · [archived copy](https://web.archive.org/web/20200707200229/http://ticketcombat.com/step5/nonsuit.php) · first seen 2008-12, last captured 2020-07
 
-Once the Crown closes its case, the site said, a defendant can ask for a
+Once the Crown closes its case, the site said, a defendant can move for
 dismissal because the charge hasn't been proven. Its main target was any
-charge that depends on a municipal by-law, such as community safety zones,
-posted limits, turn bans, stop signs and parking. The site said the Crown must
-file a certified copy under the municipality's seal, because courts can't take
-judicial notice of by-laws, and argued that prosecutors rarely do. A footnote
-warned that without a valid by-law the default limit (50 km/h in town, 80 km/h
-on highways) still applies.
+charge resting on a municipal by-law, such as community safety zones, posted
+limits, turn bans, stop signs and parking. Courts can't take judicial notice
+of by-laws, so the Crown must file a copy certified by a city officer under
+the corporate seal, and the site argued that prosecutors with some 25 cases a
+session rarely bother. It framed the motion as a follow-up to earlier
+disclosure complaints. A footnote warned that without a valid by-law the
+default limit (50 km/h in town, 80 km/h on highways) still applies.
 
 > ⚠️ **Dated:** The page names parking tickets as a prime use for this motion. Toronto parking tickets have had no Provincial Offences Act trial since Aug 28, 2017. They go through the city's Administrative Penalty System, as they do in some other municipalities, so check your ticket. See [What's changed](../whats-changed.md).
 
@@ -239,13 +246,16 @@ on highways) still applies.
 
 `/step5/part3.php` · [archived copy](https://web.archive.org/web/20200707200249/http://ticketcombat.com/step5/part3.php) · first seen 2008-12, last captured 2020-07
 
-The page distinguished testifying (giving your own account, which the
-prosecutor can cross-examine) from arguing (making legal or evidentiary
-points, which they can't). It advised testifying only if your version is more
-plausible than the officer's, and otherwise attacking the Crown's evidence,
-for example with weather records. It added that a defendant using notes on the
-stand faces the same test as the officer, and that you can't read from the
-website while testifying.
+The page distinguished testifying (your own account, open to
+cross-examination) from arguing (legal or evidentiary points, which aren't).
+Its example was a speeding defendant who, instead of or as well as testifying,
+cites case law to argue the officer wasn't properly trained. It advised
+testifying only with a version more plausible than the officer's, since the
+prosecutor might trip you up, and otherwise attacking the Crown's evidence,
+for example with weather records. Notes used on the stand face the same test
+as the officer's, so it suggested saying up front that they are yours and you
+remember the day. You can't read the website on the stand, but can use its
+material in argument.
 
 #### Trial defences you can use
 
@@ -253,12 +263,16 @@ website while testifying.
 
 A survey of procedural defences under the POA. It contrasted the six-month
 limitation period (s.76(1)) with longer ones, such as three years for some
-charges under the Compulsory Automobile Insurance Act (s.2(10)). It covered
-the 30-day deadline for giving notice of the offence (s.3(3)), separate counts
-for separate offences (s.33), and joinder or severance (s.38), noting that
-co-accused tried together can't be compelled to testify against each other
-(s.46(5)). It closed with abuse of process, such as entrapment or deliberately
-delayed charges, as grounds for a stay.
+Compulsory Automobile Insurance Act charges (s.2(10)). Notice of a Part I
+offence must arrive within 30 days (s.3(3)), so red-light-camera tickets are
+mailed within 23 days, it said. Separate offences need separate counts (s.33),
+and s.38 allows joinder or severance: co-accused tried together, like two
+alleged street racers, can't be made to testify against each other (s.46(5)),
+while separate trials let you testify on one charge only. It closed with abuse
+of process, such as entrapment or deliberately delayed charges, as grounds for
+a stay.
+
+> ⚠️ **Dated:** The red-light-camera example no longer fits Toronto tickets for violations on or after Jan 20, 2025. Those go through the city's Administrative Penalty System, not a Provincial Offences court. See [What's changed](../whats-changed.md).
 
 #### The bilingual argument
 
@@ -288,11 +302,10 @@ its own version of this argument ([Stop signs](../topics/stop-signs.md)).
 
 `/step5/cities.php` · [archived copy](https://web.archive.org/web/20170714232836/http://www.ticketcombat.com/step5/cities.php) · first seen 2009-01, last captured 2017-07
 
-The bilingual argument's reference table. It listed the municipalities and
-districts designated under the French Language Services Act, including all of
-Toronto, Ottawa and Greater Sudbury, Mississauga, Brampton, Hamilton, Windsor
-and London, plus a range of eastern and northern counties and districts. The
-list reflects the designations as of when it was written.
+The bilingual argument's reference table of areas designated under the French
+Language Services Act, including all of Toronto, Ottawa and Greater Sudbury,
+cities such as Mississauga, Hamilton, Windsor and London, and many eastern and
+northern counties and districts (designations as of when written).
 
 **Withdrawn by the site's author (2011),** along with the bilingual argument
 above. The table itself stayed online until at least 2017.
@@ -301,60 +314,66 @@ above. The table itself stayed online until at least 2017.
 
 `/step5/guiltlevel.php` · [archived copy](https://web.archive.org/web/20200707200218/http://ticketcombat.com/step5/guiltlevel.php) · first seen 2008-12, last captured 2020-07
 
-A short bridge page. It restated that the Crown must prove guilt beyond a
-reasonable doubt, then introduced the three offence categories from R. v.
-Sault Ste. Marie (1978): mens rea, strict liability and absolute liability.
-The category decides which defences are available.
+A bridge page restating the reasonable-doubt standard and introducing the
+three offence categories from R. v. Sault Ste. Marie (1978), which decide what
+defences are open.
 
 #### mens rea
 
 `/step5/mensrea.php` · [archived copy](https://web.archive.org/web/20201109041024/http://ticketcombat.com/step5/mensrea.php) · first seen 2008-12, last captured 2020-11
 
 Mens rea offences, the site explained, require proof of a guilty state of mind
-(intent, knowledge or recklessness) and are usually worded with terms like
-*knowingly* or *wilfully*. The defences it described were an honest, even if
+(intent, knowledge or recklessness) and usually use words like *knowingly* or
+*wilfully*; some endangerment charges might qualify. The Crown may infer
+intent from your statements or from the presumption that people intend the
+natural results of what they do, and the site stressed that showing no intent
+means acquittal. The defences it described were an honest, even if
 unreasonable, mistake of fact, limited by wilful blindness (Sansregret v. The
-Queen, 1985), and extreme intoxication amounting to automatism. For the
-latter it cited R. v. Daviault (1994) and news reports from 2000–2008,
-calling the case still relevant as of ~2008.
+Queen, 1985), and intoxication so extreme it amounts to automatism, which
+needs expert evidence (a hangover won't do). For that it cited R. v. Daviault
+(1994), recounting its facts bluntly, and news reports from 2000–2008, calling
+the case still relevant as of ~2008.
 
 #### Strict liability
 
 `/step5/strict.php` · [archived copy](https://web.archive.org/web/20200707200322/http://ticketcombat.com/step5/strict.php) · first seen 2008-12, last captured 2020-07
 
-For strict liability offences the Crown proves only the act, and the
-defendant can answer with due diligence, which the site called one of its most
-powerful defences. It stressed that this means showing every reasonable step
-was taken to prevent that particular incident, not general carefulness. Its
-examples of failed attempts were R. v. Gupta (2008), a driver who told child
-passengers to buckle up but never checked, and R. v. Hull (2008). It also
-discussed the likelihood of harm and the lack of a reasonable alternative as
-factors, using an overloaded-truck example.
+For strict liability offences the Crown proves only the act, and the defendant
+can answer with due diligence, which the site ranked among its strongest
+weapons. That means showing every reasonable step was taken to prevent that
+particular incident, not general carefulness. Its failed examples were R. v.
+Gupta (2008), a driver who told child passengers to buckle up but never
+checked, and R. v. Hull (2008). A remote risk of harm, or no reasonable
+alternative, can also count, as with a truck whose tarped load soaked up rain
+and went overweight.
 
 #### Absolute liability
 
 `/step5/absolute.php` · [archived copy](https://web.archive.org/web/20200707200143/http://ticketcombat.com/step5/absolute.php) · first seen 2008-12, last captured 2020-07
 
-The page explained that absolute liability offences allow no due diligence
-defence, and that whether an offence falls in this category depends on the
-law's wording, purpose and penalty. It described three defences that still
-apply: involuntariness, causation (being pushed into other cars in a pileup,
-for example), and necessity, which requires imminent danger, a lesser harm
-caused than avoided, and no legal alternative.
+Absolute liability allows no due diligence defence; whether an offence
+qualifies depends on the law's wording, purpose and penalty. Three defences
+remain: involuntariness (a spiked drink, a passenger grabbing the wheel),
+causation (being shoved into others in a pileup) and necessity, which needs
+imminent peril, lesser harm and no legal alternative.
 
 #### Most charges are strict liability offences
 
 `/step5/goodnews.php` · [archived copy](https://web.archive.org/web/20200707200214/http://ticketcombat.com/step5/goodnews.php) · first seen 2008-12, last captured 2020-07
 
-The good news, according to the site, was that provincial offences are
-presumed to be strict liability. In R. v. Kanda (2008 ONCA) the court found
-that the legislature says so clearly when it means otherwise. The page
-illustrated each category with a Highway Traffic Act section (ss.104(2.2),
-75(4) and 84.1). The exception was speeding, which Ontario treats as absolute
-liability. Under R. v. Raham (2010 ONCA), speeding becomes strict liability
-only at 50 km/h or more over the limit, a result the site mocked. It advised
-trying a due diligence story on an impartial listener first, and contrasted
-this defence at trial with Option 2's guilty plea with submissions on penalty.
+The good news, the site said, was that strict liability is the default for
+provincial offences. R. v. Kanda (2008 ONCA) held that the legislature uses
+clear wording when it means otherwise, and the page showed each category in
+the Highway Traffic Act: a parent knowingly letting a child cycle without a
+helmet (s.104(2.2)), needless horn noise or smoke (s.75(4)), and a wheel
+detaching from a commercial vehicle, where due diligence is expressly barred
+(s.84.1). The exception was speeding, treated in Ontario as absolute
+liability. Possible jail under the stunt-driving law strained that, and R. v.
+Raham (2010 ONCA) made speeding strict liability only at 50 km/h or more over.
+The site wrote: "Only in Ontario folks. Only in Ontario." It advised testing a
+due diligence story on an impartial listener, noting that unlike an Option 2
+plea with submissions, this explanation comes before the verdict and can win
+an acquittal.
 
 ### Part 4: The trial is ending
 
@@ -362,46 +381,50 @@ this defence at trial with Option 2's guilty plea with submissions on penalty.
 
 `/step5/part4.php` · [archived copy](https://web.archive.org/web/20200707200302/http://ticketcombat.com/step5/part4.php) · first seen 2008-12, last captured 2020-07
 
-A short page. It advised keeping closing submissions brief and focused on why
-the charge hasn't been proven beyond a reasonable doubt, and standing to hear
-the judgment without showing emotion.
+The page advised brief closing submissions ending on reasonable doubt, and
+standing for the judgment without emotion.
 
 #### Review of the penalties that can be administered
 
 `/step5/penalty.php` · [archived copy](https://web.archive.org/web/20200707200307/http://ticketcombat.com/step5/penalty.php) · first seen 2008-12, last captured 2020-07
 
 After a conviction, the justice hears sentencing submissions from both sides
-(POA s.57). The page explained that a Part I ticket caps the fine at $1,000
-(POA s.12), so a higher penalty under the charging statute requires a Part III
-summons (limits as of when written).
+(POA s.57). A Part I ticket caps the fine at $1,000 (POA s.12) whatever the
+charging statute allows, so a higher penalty needs a Part III summons. Its
+illustration was securities fraud, which carries up to $1 million but is
+limited to $1,000 and no jail if charged under Part I (limits as of when
+written).
 
 #### Sentencing
 
 `/step5/sentencing.php` · [archived copy](https://web.archive.org/web/20200708005343/http://ticketcombat.com/step5/sentencing.php) · first seen 2008-12, last captured 2020-07
 
-The page suggested points to raise before sentencing, such as financial
-hardship, a clean record and remorse. The site said these help even with set
-or minimum fines, because POA s.59(2) lets the court go below a minimum or
-suspend the sentence in exceptional circumstances (City of Toronto v. Doroz,
-2011). It also summarized R. v. O'Neill (2008) on whether set fines still
-apply after a trial. It noted that s.15 of the Regulatory Modernization Act,
-2007 allows higher fines for repeat offences, and that POA s.69(15) offers
-relief after a default.
+The page offered a checklist of about seven points to raise before sentence,
+among them hardship, a clean record, lost wages and the effect on dependants,
+and named remorse, an apology and desperate finances as the most persuasive.
+These help even with set or minimum fines, it said, because POA s.59(2) lets
+the court go below a minimum or suspend the sentence in exceptional
+circumstances (City of Toronto v. Doroz, 2011). It summarized R. v. O'Neill
+(2008), which read POA ss.6–9 as confining set fines to out-of-court pleas
+while leaving a trial justice room to impose them anyway, and advised asking
+for the set fine if the prosecutor didn't. It noted that s.15 of the
+Regulatory Modernization Act, 2007 allows higher fines for repeat offences,
+and that POA s.69(15) offers relief after a default.
 
 #### How to Appeal
 
 `/step5/appeals.php` · [archived copy](https://web.archive.org/web/20200707200153/http://ticketcombat.com/step5/appeals.php) · first seen 2008-12, last captured 2020-07
 
-The site encouraged appeals, since an appeal is heard by a judge with legal
-training. It covered paying the fine or entering a recognizance (POA
-s.111(2)), staying the conviction while the appeal is pending (s.112), and the
-difference between errors of law and errors of fact. It also covered a trial
-justice's failure to explain the decision (R. v. Andrews, 2005). On the
-practical side, it described the 15-day deadline and transcript costs: a $25
-deposit, then about $60 to several hundred dollars, with transcripts taking
-24–30 months in Toronto (figures from ~2008–2011). It cited R. v. Ovided
-(2008) for the claim that very long transcript delays can lead to a
-dismissal.
+The site encouraged appeals to the Ontario Court of Justice, where a judge
+with legal training can follow subtler arguments. The fine is paid first
+unless the judge accepts a recognizance (POA s.111(2)), and the conviction can
+be stayed meanwhile (s.112). Grounds are errors of law, such as relying on
+hearsay, that caused a miscarriage of justice, and errors of fact, meaning
+findings with no evidence behind them. An unexplained decision can qualify (R.
+v. Andrews, 2005). It described the 15-day deadline and transcript costs: a
+$25 deposit, then $60 to several hundred dollars, with Toronto waits of 24–30
+months (figures from ~2008–2011), and cited R. v. Ovided (2008) for dismissal
+after very long transcript delays.
 
 ## Key takeaways
 
@@ -414,9 +437,12 @@ dismissal.
 - Most of the trial technique (officer's notes, voir dire, hearsay,
   cross-examination, the by-law non-suit) aimed to show the Crown hadn't
   proven its case, rather than to tell a competing story.
-- The main substantive defence was due diligence, available because
-  provincial offences are presumed to be strict liability (R. v. Kanda).
-  Ordinary speeding was the big exception (R. v. Raham).
+- The main substantive defence was due diligence, available because strict
+  liability is the default for provincial offences (R. v. Kanda). Ordinary
+  speeding was the big exception (R. v. Raham).
+- Losing was not treated as the end. The site pushed sentencing submissions,
+  including relief below minimum fines under POA s.59(2), and appeals to a
+  legally trained judge, while warning that transcripts were slow and costly.
 - Two lines of argument have aged. The author withdrew the bilingual-sign
   defence in 2011, and the s.11(b) delay strategy predates R v Jordan (2016).
   Toronto parking tickets, and Toronto camera tickets for violations from

@@ -35,49 +35,45 @@ works up to a point. Fine and point values are as of when it was written
 
 `/stopsign/stopsign.php` · [archived copy](https://web.archive.org/web/20251018091347/https://www.ticketcombat.com/stopsign/stopsign.php) · first seen 2009-02, last captured 2025-10
 
-A short front page giving the charge (HTA s.136), the set fine ($85, or $150 in
-a community safety zone), 3 demerit points and a minor insurance classification
-(as of ~2009). It framed the fight as winnable only if you reframe it away from
-a credibility contest.
+Front page: HTA s.136, an $85 set fine ($150 in a community safety zone), 3
+demerit points and a minor insurance class (as of ~2009). Winnable, it said,
+only by escaping a credibility contest.
 
 ### Stop sign legislation
 
 `/stopsign/understand.php` · [archived copy](https://web.archive.org/web/20230319183552/https://www.ticketcombat.com/stopsign/understand.php) · first seen 2009-02, last captured 2023-03
 
-The site walked through the HTA definition of stopping and s.136. You must stop
-at the marked line, or failing that before the crosswalk, or failing that before
-the intersection, and then yield. It said no particular length of stop is
-required. It also noted that you can stop correctly and still be charged for not
-proceeding with care. Its key point was s.137: a stop sign needs a by-law (or a
+The site walked through the HTA definition of stopping and s.136. Because the
+definition counts even a momentary halt, it said the three-second rule from
+driver training has no legal basis. You must stop at the marked line, or
+failing that before the crosswalk, or failing that before the intersection,
+then proceed with care and yield. There is no duty to stop at the sign itself,
+and a proper stop can still draw a charge if you then trail another car
+through. Its key point was s.137: a stop sign needs a municipal by-law (or
 ministry regulation) behind it. Asking for that by-law in disclosure, and
-arguing improper disclosure if it isn't produced, was presented as one of the
-easiest routes to an adjournment or stay (see [Step 4](../guide/step-4-pre-trial.md)).
+seeking an adjournment or stay if it isn't produced, was called one of the
+easiest wins (see [Step 4](../guide/step-4-pre-trial.md)).
 
 ### Examine the intersection where you were charged
 
 `/stopsign/thescene.php` · [archived copy](https://web.archive.org/web/20190912224627/http://www.ticketcombat.com/stopsign/thescene.php) · first seen 2009-02, last captured 2019-09
 
-Advice on inspecting the scene from the officer's seated vantage point. Check
-whether the line, crosswalk and intersection edge were all visible from there,
-and photograph obstructions under conditions matching the offence. Also check
-whether the sign met the 60-metre visibility rule in Regulation 615, s.45, or had
-a "stop ahead" warning. The site was frank that the evidence must be persuasive.
-It contrasted *Bucknell*, where an officer posted to watch the intersection was
-believed despite the driver's video, with *Andrews*, where a conviction was
-overturned because the trial justice hadn't dealt with the driver's and
+The site recast the officer's evidence as not having seen a stop, then said to
+test it from his seated vantage point: could he see the line, crosswalk and
+intersection edge? It advised photographing obstructions in matching
+conditions and checking the 60-metre visibility rule (Reg. 615, s.45) and any
+warning sign. Evidence must persuade: *Bucknell* believed a posted officer over the driver's video,
+while *Andrews* overturned a conviction that ignored the driver's and
 passenger's evidence.
 
 ### How to delay the trial
 
 `/stopsign/delay.php` · [archived copy](https://web.archive.org/web/20190912234443/http://ticketcombat.com/stopsign/delay.php) · first seen 2009-02, last captured 2019-09
 
-Aimed at trials scheduled within a year of the offence (beyond that, the site
-pointed to a Charter delay application instead). It described asking for an
-adjournment when the officer is present, or moving in advance to change the
-trial date, to raise the chance the officer won't appear at the rescheduled
-trial. It also listed the costs: a delay you cause can't support an
-unreasonable-delay argument, it uses up your own time, and justices' patience
-runs out.
+For trials set within a year (beyond that, a Charter delay application), the
+site suggested an adjournment if the officer attends, or an advance motion to
+move the date, hoping he misses the new one. The costs: no unreasonable-delay
+claim, lost time, and justices' patience.
 
 > ⚠️ **Dated:** The page's one-year cut-off and its fallback to a Charter s.11(b) application come from the Askov/Morin era, which *R v Jordan*, 2016 SCC 27 replaced with presumptive ceilings (18 months in provincial court). See [What's changed](../whats-changed.md).
 
@@ -87,44 +83,47 @@ runs out.
 
 (The site map links this title to `/stopsign/sldefence.php`, which was never archived. The section's own menu links here instead.)
 
-The site acknowledged *Maione* (2004) treating stop-sign offences as absolute
-liability, but said later case law points to strict liability, which opens a
-due diligence defence (see [Step 5](../guide/step-5-trial.md)). The argument was
-that a driver who slowed almost to a halt, intending to stop, and believed they
-had stopped is morally innocent. That is different from someone who drove
-straight through. It then gave a sample line of questioning meant to get the
-officer to admit the car slowed, was moving very slowly, and was watched from a
-side angle where speed is hard to judge. Read the original for the script.
+The site acknowledged *Montréal (Ville) v. Maione* (2004), a Quebec municipal
+court ruling that stop-sign offences are absolute liability, but said later
+case law points to strict liability, which opens a due diligence defence (see
+[Step 5](../guide/step-5-trial.md)). Its argument: a driver who slowed almost to
+a halt, meant to stop and believed they had is morally innocent, unlike one who
+drove straight through. It then gave a sample cross-examination aimed at
+getting the officer to concede that he was hidden off to the side, saw the car
+slow, and judged a very low speed from an angle where speed is hard to
+estimate, and that a driver could honestly think he had stopped. Read the
+original for the script.
 
 ### A case study
 
 `/stopsign/casestudy.php` · [archived copy](https://web.archive.org/web/20190508124837/http://ticketcombat.com/stopsign/casestudy.php) · first seen 2009-02, last captured 2019-05
 
-A worked example of a driver who went through a stop sign at about 40 km/h on an
-unfamiliar road and said he never saw it. The defence it described requested
-disclosure (including the officer's position, ticket counts at that corner, and
-the by-law), sought a pre-trial ruling that the offence is strict liability
-(citing *Locke* and *Kanda*), and used cross-examination to show the driver was
-under the limit and that the intersection had a known problem. The sign had
-since been replaced by a traffic light. It then argued due diligence and poor
-sign placement: the sign sat at the end of a curve with no advance warning and
-no proof of 60-metre visibility. The page does not say how the case ended.
+A worked example: a construction worker on an unfamiliar road drove through a
+stop sign at about 40 km/h at dusk, saying he never saw it, past an officer
+posted there to catch stop-sign runners. The defence it described sought
+disclosure (the officer's notes and position, ticket counts at that corner, the
+by-law), a pre-trial ruling that the offence is strict liability (citing
+*Locke* and *Kanda*), and cross-examination showing he was under the limit and
+that the corner had a known problem; its stop signs had since been replaced by
+a light. It then argued due diligence and poor placement: the sign sat at the
+end of a curve, with no advance warning and no proof of 60-metre visibility.
+The page doesn't say how the case ended.
 
 ### Using the bilingual argument to fight your stop sign ticket
 
 `/stopsign/bilingualstop.php` · [archived copy](https://web.archive.org/web/20190912233802/http://www.ticketcombat.com/stopsign/bilingualstop.php) · first seen 2009-02, last captured 2019-09 · [original 2011 version (archived)](https://web.archive.org/web/20110326020555/http://www.ticketcombat.com/stopsign/bilingualstop.php)
 
 The original page applied [Step 5](../guide/step-5-trial.md)'s bilingual-sign
-argument to stop signs, only in Ontario's designated bilingual areas, and urged
-using it as a last resort since no court had accepted it. It argued that all-way
-stops needed a bilingual "All-Way / Toutes directions" tab to comply with
-Regulation 615. For plain signs, it read the regulation's rules (post-1993 signs
-"STOP" only, older "STOP/ARRÊT" signs to be phased out by a 2015 deadline) to
-mean that an English-only sign put up before 1993 in a bilingual area might
-never have been valid. It supported this with history of Quebec's sign laws
-(*Ford v. Quebec*, 1988), with *Kanda*'s strict reading of statutory wording,
-and with a 2008 Ministry advisory. It suggested using disclosure to find out
-when the sign's by-law was passed.
+argument to stop signs in Ontario's 25 designated bilingual areas, as a last
+resort, since no court had accepted it. All-way stops, it said, needed a
+bilingual "All-Way / Toutes directions" tab under Regulation 615. For plain
+signs, it read the regulation (post-1993 signs "STOP" only; older
+"STOP/ARRÊT" signs to go by 2008, later 2015) to mean that an English-only
+sign erected before 1993 in a bilingual area may never have been valid (it
+said Toronto had no bilingual signs at all). It backed this with Quebec
+sign-law history (*Ford v. Quebec*, 1988), *Kanda*'s focus on statutory
+wording, and a 2008 Ministry advisory showing the province could have kept old
+signs compliant. Disclosure of the by-law's date would show the sign's age.
 
 Withdrawn by the site's author (2011): the page now redirects to [a notice](https://web.archive.org/web/20190912231735/http://www.ticketcombat.com/step5/bilingual.php) that the bilingual defence is no longer viable.
 

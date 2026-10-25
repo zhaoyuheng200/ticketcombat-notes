@@ -34,59 +34,53 @@ enforcement statistics are as of when it was written (~2009).
 `/seatbelt/intro.php` · [archived copy](https://web.archive.org/web/20251020131302/https://www.ticketcombat.com/seatbelt/intro.php) · first seen 2009-02, last captured 2025-10
 
 The page gave the charge (HTA s.106), a $200 set fine, 0–2 demerit points and a
-minor insurance classification (as of ~2009), and the three possible
-violations. It contrasted an individual traffic stop, where the officer watches
-you closely while you pull over and takes detailed notes, with a safety blitz,
-citing 2008 campaigns with thousands of charges in two weeks. The site argued
-that blitz conditions leave officers with thin notes and poor recall. It urged
-readers to reconstruct what the officer could actually have seen, and to get
-the notes through disclosure.
+minor insurance class (as of ~2009), and the three possible violations. It
+contrasted a traffic stop, where the officer watches you closely as you pull
+over and notes detail, with a safety blitz at highway ramps, citing 2008
+two-week campaigns that produced nearly 5,000 charges in Mississauga and over
+16,000 by the OPP. Blitz officers, it argued, take thin notes and recall little.
+It urged reconstructing what the officer could actually have seen (angle,
+light, speed, obstructions) and getting the notes through disclosure.
 
 ### Understand the charge
 
 `/seatbelt/understand.php` · [archived copy](https://web.archive.org/web/20240723185514/https://www.ticketcombat.com/seatbelt/understand.php) · first seen 2010-01, last captured 2024-07
 
-A short pointer page to HTA s.106 and Regulation 613. It used the exemption for
-driving in reverse, such as unbuckling to parallel park, as an example of why the
-elements of the charge matter (see [Step 3](../guide/step-3-preparation.md)),
-and named the three key cases: *Kanda*, *Gupta* and *Tassone*.
+Cites HTA s.106 and Reg. 613, the exemption for reversing (e.g. parallel
+parking), and key cases *Kanda*, *Gupta* and *Tassone*.
 
 ### Driver — no seat belt
 
 `/seatbelt/driver.php` · [archived copy](https://web.archive.org/web/20240801231235/https://www.ticketcombat.com/seatbelt/driver.php) · first seen 2010-01, last captured 2024-08
 
-The longest page. For reasonable doubt, it used *Tassone* to show where courts
-draw the line (a belt taken off at a red light, for too long, still led to a
-conviction). It suggested the belt may simply have been hard to see, because of
-clothing colour or anchor position, illustrated with photos. It also suggested
-the belt may have been released just before the officer arrived, a small motion
-that is easy to miss. For due diligence, it relied on *Kanda* and the wording of
-s.106. You would have to explain why the belt was off, the steps you normally
-take, and why you believed it was on, for example a break in routine or a
-faulty or ignored warning light. It ended with a strong warning about
-credibility.
+The site insisted you pick one defence: reasonable doubt (you were belted) or
+due diligence (you weren't, blamelessly), never both. For reasonable doubt,
+*Tassone* showed the limits: the court believed a driver who unbuckled at a red
+light to reach his wallet but convicted him anyway, as the belt was off too
+long with the engine running. The site suggested belts can be hard to see,
+given clothing colour or anchor height (it showed photos), and that unbuckling
+as the officer approaches is a small, easily missed motion. For due diligence
+it relied on *Kanda* and the absence of absolute-liability wording in s.106:
+you would need to explain why the belt was off, your normal habits, and why you
+believed it was on, such as a disrupted routine (a drive-through window) or a
+faulty or habitually ignored warning light. It closed by stressing credibility:
+an excuse alone isn't diligence.
 
 ### Passenger — no seat belt
 
 `/seatbelt/passenger.php` · [archived copy](https://web.archive.org/web/20240801231235/https://www.ticketcombat.com/seatbelt/passenger.php) · first seen 2010-01, last captured 2024-08
 
-The site saw this as closer to a parking ticket, with no points and no effect
-on the driving record, and suggested pleading to a lesser offence for a smaller
-fine (see [Step 5](../guide/step-5-trial.md)). If fighting it, it expected few
-or no officer notes and a lower chance the officer would attend. That makes a
-stay application for insufficient disclosure (see
-[Step 4](../guide/step-4-pre-trial.md)) or the driver page's due diligence
-argument the main options.
+The site likened it to a costly parking ticket (no points or record) best
+pleaded down. If fought, officers rarely take notes or attend, so it suggested
+a stay for missing disclosure, or due diligence.
 
 ### Child — no seat belt
 
 `/seatbelt/child.php` · [archived copy](https://web.archive.org/web/20240801231235/https://www.ticketcombat.com/seatbelt/child.php) · first seen 2010-01, last captured 2024-08
 
-A short comparison. In *Kanda*, a father who testified about the concrete
-checks he made on his sons' belts was acquitted. In *Gupta*, a driver who
-had only told his passengers to buckle up was convicted. The site's lesson was
-that your testimony has to show the active, reasonable steps a careful person
-would take.
+In *Kanda*, a father who described concrete checks on his sons' belts was
+acquitted; in *Gupta*, a driver who only told passengers to buckle up was
+convicted. The site's lesson: testify to the steps you took.
 
 ## Key takeaways
 
