@@ -1,0 +1,17 @@
+main:
+  - { title: "Home", url: "/" }
+  - { title: "History", url: "/history.html" }
+  - { title: "What's changed", url: "/whats-changed.html" }
+  - { title: "Page index", url: "/page-index.html" }
+  - { title: "Why no download?", url: "/no-download.html", class: "nav-download" }
+guide:
+  - { title: "1 Fight the ticket", url: "/guide/step-1-fight-the-ticket.html" }
+  - { title: "2 Request a trial", url: "/guide/step-2-request-a-trial.html" }
+  - { title: "3 Preparation", url: "/guide/step-3-preparation.html" }
+  - { title: "4 Pre-trial", url: "/guide/step-4-pre-trial.html" }
+  - { title: "5 Trial", url: "/guide/step-5-trial.html" }
+topics:
+  - { title: "Your ticket", url: "/topics/your-ticket.html" }
+  - { title: "Parking", url: "/topics/parking-tickets.html" }
+  - { title: "Stop signs", url: "/topics/stop-signs.html" }
+  - { title: "Seat belts", url: "/topics/seat-belts.html" }

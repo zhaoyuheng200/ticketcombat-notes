@@ -15,10 +15,21 @@ This repository is an **unofficial guide to that site**: what it covered, how it
 was organized, what has changed since it was written, and a direct link to the
 archived copy of every page.
 
+<div class="callout-download" markdown="1">
+
+### 📦 Looking for a PDF or download of the original site?
+
+**There isn't one, on purpose.** The author's terms let you keep a personal
+copy but forbid redistributing the site, and it being offline doesn't change
+that. **[Here's why, and what you can do instead →](no-download.md)**
+
+</div>
+
 > **Please read this first**
 > - **Not affiliated** with TicketCombat.com or its author.
-> - **Not a mirror.** The site's terms forbid republishing its content, so these
->   pages summarize in our own words and link to the archived originals.
+> - **Not a mirror, and no download.** The site's terms forbid republishing its
+>   content, so these pages summarize in our own words and link to the archived
+>   originals ([why](no-download.md)).
 > - **Not legal advice, and often out of date.** Most of the site was written in
 >   2008–2011, and Ontario's process has changed since. See
 >   [What's changed](whats-changed.md) before relying on anything here or there.
@@ -31,6 +42,7 @@ archived copy of every page.
 - [History and status](history.md): who ran it, timeline, and why it's down
 - [What's changed since it was written](whats-changed.md)
 - [Page index](page-index.md): every archived page and download, with links
+- [Why there's no download](no-download.md): why the original site isn't bundled here
 
 **The five-step guide**
 1. [Fight the ticket](guide/step-1-fight-the-ticket.md): why the site said you should almost always fight

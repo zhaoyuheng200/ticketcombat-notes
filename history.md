@@ -76,6 +76,7 @@ essentially the whole site: about 130 HTML pages, the downloadable Word
 templates, and a PDF court decision. Every page is linked from the
 [page index](page-index.md).
 
-This repository does **not** mirror the site's text. The site's terms forbid
-republishing or modifying its content without written permission, so these
-notes summarize and link instead.
+This repository does **not** mirror the site's text or offer it as a download.
+The site's terms forbid republishing or modifying its content without written
+permission, so these notes summarize and link instead. See
+[Why there's no download](no-download.md).

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container-lg px-3">
+        <div class="site-header-row">
+          <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <nav class="site-nav" aria-label="Main">
+            {%- for item in site.data.nav.main %}
+            <a href="{{ item.url | relative_url }}" class="{{ item.class }}{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+            {%- endfor %}
+          </nav>
+        </div>
+        <nav class="site-subnav" aria-label="Sections">
+          <div class="nav-group">
+            <span class="label">Guide</span>
+            {%- for item in site.data.nav.guide %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+            {%- endfor %}
+          </div>
+          <div class="nav-group">
+            <span class="label">Topics</span>
+            {%- for item in site.data.nav.topics %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+            {%- endfor %}
+          </div>
+        </nav>
+      </div>
+    </header>
+    <div class="site-notice">
+      <div class="container-lg px-3">
+        Unofficial notes. Not affiliated with TicketCombat.com. Not legal advice.
+        The original site is not reproduced here: <a href="{{ "/no-download.html" | relative_url }}">why there's no download</a>.
+      </div>
+    </div>
+
+    <main class="container-lg px-3 my-5 markdown-body">
+      {{ content }}
+
+      <footer class="site-footer">
+        Notes licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+        TicketCombat.com content is © its author and is not reproduced here.
+        <a href="{{ site.github.repository_url | default: 'https://github.com/zhaoyuheng200/ticketcombat-notes' }}">Source on GitHub</a>
+      </footer>
+    </main>
+  </body>
+</html>
