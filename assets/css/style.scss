@@ -71,6 +71,10 @@
   font-size: 14px;
 }
 
+// README.md doubles as the site homepage. Blocks with this class are only
+// meant for readers on github.com (which strips the class), so hide them here.
+.github-only { display: none; }
+
 .markdown-body .callout-download {
   background: #ddf4ff;
   border: 1px solid #54aeff;

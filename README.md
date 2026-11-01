@@ -15,6 +15,13 @@ This repository is an **unofficial guide to that site**: what it covered, how it
 was organized, what has changed since it was written, and a direct link to the
 archived copy of every page.
 
+<div class="github-only" markdown="1">
+
+**📖 Read these notes as a website:** <https://zhaoyuheng200.github.io/ticketcombat-notes/>
+(Viewing a fork? Its own published copy is listed under [Deployments](../../deployments).)
+
+</div>
+
 <div class="callout-download" markdown="1">
 
 ### 📦 Looking for a PDF or download of the original site?
