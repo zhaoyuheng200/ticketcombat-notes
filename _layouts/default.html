@@ -49,5 +49,9 @@
         <a href="{{ site.github.repository_url | default: 'https://github.com/zhaoyuheng200/ticketcombat-notes' }}">Source on GitHub</a>
       </footer>
     </main>
+    {%- if jekyll.environment == "production" %}
+    <script data-goatcounter="https://frankcarmine.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+    {%- endif %}
   </body>
 </html>
